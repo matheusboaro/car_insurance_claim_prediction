@@ -2,7 +2,7 @@
 
 ## Proposed Methodology
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/matheusboaro/car_insurance_claim_prediction/blob/main/methodology.png)
 
 ## TabNet Overview
 
@@ -33,7 +33,7 @@ This task consisted of giving a customer who has filed a claim notice, what amou
 
 ## TabNet Explanability 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/matheusboaro/car_insurance_claim_prediction/blob/main/tabnet_masks.png)
 
 
 ## Conclusions
